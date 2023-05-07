@@ -1,7 +1,7 @@
 {
   "name": "psybient",
   "version": "1.0.0",
-  "description": "This repository contains a CSV file with a list of the most popular and influential Music composers, and artists in the electronic music genre, particularly in the ambient, psychedelic, dub, goa, and other subgenres. The CSV file also includes electronic music albums featuring by such artists.",
+  "description": "This repository contains a CSV file with a list of the most popular and influential Music composers, and artists in the electronic music genre, particularly in the ambient, psychedelic, Psybient.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
