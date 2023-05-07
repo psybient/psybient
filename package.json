@@ -1,0 +1,26 @@
+{
+  "name": "psybient",
+  "version": "1.0.0",
+  "description": "This repository contains a CSV file with a list of the most popular and influential Music composers, and artists in the electronic music genre, particularly in the ambient, psychedelic, dub, goa, and other subgenres. The CSV file also includes electronic music albums featuring by such artists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/psybient/psybient.git"
+  },
+  "keywords": [
+    "psybient",
+    "ambient",
+    "psychedelic",
+    "dub",
+    "goa"
+  ],
+  "author": "@psybient",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psybient/psybient/issues"
+  },
+  "homepage": "https://github.com/psybient/psybient#readme"
+}
